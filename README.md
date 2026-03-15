@@ -1,4 +1,4 @@
-# Peblo AI Backend Engineer Challenge
+# AI Backend for PDF Processing
 
 This prototype AI-driven backend pipeline ingests educational PDFs, converts content into structured chunks, and generates adaptive quizzes using LLMs (Gemini).
 
